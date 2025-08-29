@@ -1,31 +1,56 @@
+<div align="center">
+
+![Header Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
+
 # 👋 Hello, I'm Arnab Nath
 ### 💻 Full Stack Developer | 🌱 Data Science Enthusiast | 🎨 UI/UX Lover
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-arnab-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narnabnath919@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnab-n2001/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ap_nathson01)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1d-3xnYpqkXwcF7Z-2Nzl7atzstSf4YlI/view?usp=drive_link)
+</div>
 
-<table>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://dev-arnab-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="mailto:natharnab2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/arnab-n2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ap_nathson01">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1d-3xnYpqkXwcF7Z-2Nzl7atzstSf4YlI/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+<!-- Background pattern -->
+<div align="center" style="background-image: url('https://www.transparenttextures.com/patterns/3px-tile.png'); padding: 30px; border-radius: 15px;">
+
+<table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse;">
   <tr>
-    <td width="60%">
-      
-**About Me** 🚀
-I'm a passionate Full Stack Developer from India with expertise in building scalable web applications using modern technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
+    <td style="width: 60%; padding: 15px; vertical-align: top; text-align: left;">
 
-- 🌱 Currently learning **Data Science & Machine Learning**
-- 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)
-- 💬 Ask me about **MERN Stack, Next.js, JavaScript, TypeScript**
-- ⚡ Fun fact: I love cycling in my free time
+I'm a passionate Full Stack Developer from India with expertise in building scalable web applications using modern technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Open+Source+Contributor)
+- 🌱 Currently learning **Data Science & Machine Learning**  
+- 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)  
+- 💬 Ask me about **MERN Stack, Next.js, JavaScript, TypeScript**  
+- ⚡ Fun fact: I love cycling in my free time  
+
+<!-- Animated typing text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
     </td>
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybTFibWR3c2x3NWl4OXZpNzdtdjhhbWI3c3AwNXQzNThieWYzeWFmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/200w.gif" width="250" alt="Coding GIF"/>
+      <td style="width: 40%; text-align: center; padding: 15px;">
+      <!-- GIF Image -->
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybTFibWR3c2x3NWl4OXZpNzdtdjhhbWI3c3AwNXQzNThieWYzeWFmbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/jBOOXxSJfG8kqMxT11/200w.gif" width="250" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -62,26 +87,61 @@ I'm a passionate Full Stack Developer from India with expertise in building scal
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mearnab01&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearnab01&layout=compact&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mearnab01&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mearnab01&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearnab01&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
   <br/>
 </p>
+
+---
+
+## 🎯 Featured Projects
+
+<table align="center">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" style="padding: 5px;">
+      <a href="https://dev-draft-by-arnab.vercel.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mearnab01&repo=next_js_devDraft&theme=radical" alt="Online Code Editor" width="250"/>
+      </a>
+      <br>
+      <a href="https://github.com/Mearnab01/next_js_devDraft" target="_blank">GitHub Repo</a>
+    </td>
+    <!-- Project 2 -->
+    <td align="center" style="padding: 5px;">
+      <a href="https://arnab-threejs-site.netlify.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mearnab01&repo=threejs-gsap&theme=radical" alt="Apple Ui by Gsap" width="250"/>
+      </a>
+      <br>
+      <a href="https://github.com/Mearnab01/threejs-gsap" target="_blank">GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:narnabnath919@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" width="50"/></a>
-  <a href="https://linkedin.com/in/arnab-n2001/"><img src="https://img.icons8.com/color/64/000000/linkedin.png" width="50"/></a>
-  <a href="https://twitter.com/ap_nathson01"><img src="https://img.icons8.com/color/64/000000/twitter.png" width="50"/></a>
-  <a href="https://github.com/mearnab01"><img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="50"/></a>
+  <a href="mailto:narnabnath919@gmail.com">
+    <img src="https://img.icons8.com/color/64/000000/gmail.png" width="50" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/arnab-n2001/">
+    <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ap_nathson01">
+    <img src="https://img.icons8.com/color/64/000000/twitter.png" width="50" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/mearnab01">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="50" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <p>❤️ Made with love by Arnab Nath</p>
+<!-- Visitors counter -->
+<img src="https://komarev.com/ghpvc/?username=mearnab01&color=blueviolet&style=flat-square" alt="Visitor Count" width="120"/>
+<p style="margin-top: 5px;">❤️ Made with love by Arnab Nath</p>
 </div>
+
