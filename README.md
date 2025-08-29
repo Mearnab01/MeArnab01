@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td>
-
 # 👋 Hello, I'm Arnab Nath
 ### 💻 Full Stack Developer | 🌱 Data Science Enthusiast | 🎨 UI/UX Lover
 
@@ -11,16 +7,27 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ap_nathson01)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1d-3xnYpqkXwcF7Z-2Nzl7atzstSf4YlI/view?usp=drive_link)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Open+Source+Contributor)
-
-## 🚀 About Me
-
+<table>
+  <tr>
+    <td width="60%">
+      
+**About Me** 🚀
 I'm a passionate Full Stack Developer from India with expertise in building scalable web applications using modern technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🌱 I'm currently learning **Data Science & Machine Learning**
-- 👨‍💻 All of my projects are available at my [portfolio](https://dev-arnab-portfolio.vercel.app/)
+- 🌱 Currently learning **Data Science & Machine Learning**
+- 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)
 - 💬 Ask me about **MERN Stack, Next.js, JavaScript, TypeScript**
-- ⚡ Fun fact: I love to cycling in my free time
+- ⚡ Fun fact: I love cycling in my free time
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Open+Source+Contributor)
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybTFibWR3c2x3NWl4OXZpNzdtdjhhbWI3c3AwNXQzNThieWYzeWFmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/200w.gif" width="250" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -49,17 +56,6 @@ I'm a passionate Full Stack Developer from India with expertise in building scal
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybTFibWR3c2x3NWl4OXZpNzdtdjhhbWI3c3AwNXQzNThieWYzeWFmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/200w.gif" width="250" alt="Coding GIF"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
