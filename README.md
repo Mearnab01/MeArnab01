@@ -67,7 +67,6 @@ I'm a passionate Full Stack Developer from India with expertise in building scal
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mearnab01&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mearnab01&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
