@@ -41,7 +41,7 @@ I’m a Data Science and Machine Learning enthusiast from India, working on data
 - ⚡ Fun fact: I love cycling in my free time  
 
 <!-- Animated typing text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer; Statistical+Modeling;Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Statistical+Modeling;Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
     </td>
       <td style="width: 40%; text-align: center; padding: 15px;">
       <!-- GIF Image -->
