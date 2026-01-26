@@ -21,7 +21,7 @@
   <a href="https://twitter.com/ap_nathson01">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://drive.google.com/file/d/1d-3xnYpqkXwcF7Z-2Nzl7atzstSf4YlI/view?usp=drive_link">
+  <a href="[https://drive.google.com/file/d/1d-3xnYpqkXwcF7Z-2Nzl7atzstSf4YlI/view?usp=drive_link](https://drive.google.com/file/d/1Rx95W-xrJIafucBwau3HLQozdmQqt7bT/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -37,11 +37,11 @@ I'm a passionate Full Stack Developer from India with expertise in building scal
 
 - 🌱 Currently learning **Data Science & Machine Learning**  
 - 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)  
-- 💬 Ask me about **MERN Stack, Next.js, JavaScript, TypeScript**  
+- 💬 Ask me about **Python, Java, Data Science, ML models**  
 - ⚡ Fun fact: I love cycling in my free time  
 
 <!-- Animated typing text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer; Statistical+Modeling;Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
     </td>
       <td style="width: 40%; text-align: center; padding: 15px;">
       <!-- GIF Image -->
@@ -56,21 +56,27 @@ I'm a passionate Full Stack Developer from India with expertise in building scal
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FF4B00?style=for-the-badge&logo=appwrite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Machine Learning
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-ML-blue?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-ML-green?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-ML-orange?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-ML-darkgreen?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Tree-ML-brown?style=for-the-badge)
+
+### Model Development & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
