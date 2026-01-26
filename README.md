@@ -33,7 +33,7 @@
   <tr>
     <td style="width: 60%; padding: 15px; vertical-align: top; text-align: left;">
 
-I'm a passionate Full Stack Developer from India with expertise in building scalable web applications using modern technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.  
+I’m a Data Science and Machine Learning enthusiast from India, working on data analysis, feature engineering, and building ML models to solve real-world problems.  
 
 - 🌱 Currently learning **Data Science & Machine Learning**  
 - 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)  
