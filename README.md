@@ -3,7 +3,7 @@
 ![Header Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
 # 👋 Hello, I'm Arnab Nath
-### 💻 Full Stack Developer | 🌱 Data Science Enthusiast | 🎨 UI/UX Lover
+### 💻 Full Stack Developer | 🌱 Data Science Enthusiast | 🎨 Genai
 
 </div>
 
