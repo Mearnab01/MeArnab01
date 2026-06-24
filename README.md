@@ -81,7 +81,7 @@ I’m a Data Science and Machine Learning enthusiast from India, working on data
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-663399?style=for-the-badge&logo=convex&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -107,23 +107,22 @@ I’m a Data Science and Machine Learning enthusiast from India, working on data
   <tr>
     <!-- Project 1 -->
     <td align="center" style="padding: 5px;">
-      <a href="https://dev-draft-by-arnab.vercel.app/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mearnab01&repo=next_js_devDraft&theme=radical" alt="Online Code Editor" width="250"/>
+      <a href="https://thunder421-criterion-by-arnab1028.hf.space/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mearnab01&repo=AI_ats&theme=radical" alt="AI ATS Resume Scorer" width="250"/>
       </a>
       <br>
-      <a href="https://github.com/Mearnab01/next_js_devDraft" target="_blank">GitHub Repo</a>
+      <a href="https://github.com/Mearnab01/AI_ats" target="_blank">GitHub Repo</a>
     </td>
-    <!-- Project 2 -->
-    <td align="center" style="padding: 5px;">
-      <a href="https://arnab-threejs-site.netlify.app/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mearnab01&repo=threejs-gsap&theme=radical" alt="Apple Ui by Gsap" width="250"/>
-      </a>
-      <br>
-      <a href="https://github.com/Mearnab01/threejs-gsap" target="_blank">GitHub Repo</a>
-    </td>
+<!-- Project 2 -->
+<td align="center" style="padding: 5px;">
+  <a href="https://thunder421-styleforge-by-arnab1028.hf.space/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mearnab01&repo=Neural_Style_Transfer_Project&theme=radical" alt="Neural Style Transfer" width="250"/>
+  </a>
+  <br>
+  <a href="https://github.com/Mearnab01/Neural_Style_Transfer_Project" target="_blank">GitHub Repo</a>
+</td>
   </tr>
 </table>
-
 
 ---
 
