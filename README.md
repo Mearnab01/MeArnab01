@@ -37,7 +37,7 @@
 I’m a Data Science and Machine Learning enthusiast from India, working on data analysis, feature engineering, and building ML models to solve real-world problems.  
 
 - 🌱 Currently learning **Data Science & Machine Learning**  
-- 👨‍💻 Check my projects at my [portfolio](https://dev-arnab-portfolio.vercel.app/)  
+- 👨‍💻 Check my projects at my [portfolio](https://ml-arnabnath-portfolio.netlify.app/)  
 - 💬 Ask me about **Python, Java, Data Science, ML models**  
 - ⚡ Fun fact: I love cycling in my free time  
 
