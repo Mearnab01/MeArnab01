@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://dev-arnab-portfolio.vercel.app/">
+  <a href="https://ml-arnabnath-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="mailto:natharnab2001@gmail.com">
