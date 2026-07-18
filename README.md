@@ -21,7 +21,7 @@
   <a href="https://twitter.com/ap_nathson01">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-<a href="https://drive.google.com/file/d/1Rx95W-xrJIafucBwau3HLQozdmQqt7bT/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1vkUOjCQwEZF8hYxvEfjxzjkUhVcuucEk/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
