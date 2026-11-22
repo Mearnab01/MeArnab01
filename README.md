@@ -3,7 +3,7 @@
 ![Header Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
 # 👋 Hello, I'm Arnab Nath
-### 💻 Full Stack Developer | 🌱 Data Science Enthusiast | 🎨 Genai
+### 💻 Full Stack AI Developer | 🌱 AI Engineer | 🎨 GenAI
 
 </div>
 
@@ -36,7 +36,7 @@
 
 I’m a Data Science and Machine Learning enthusiast from India, working on data analysis, feature engineering, and building ML models to solve real-world problems.  
 
-- 🌱 Currently learning **Data Science & Machine Learning**  
+- 🌱 Currently learning **AI Engineering**  
 - 👨‍💻 Check my projects at my [portfolio](https://ml-arnabnath-portfolio.netlify.app/)  
 - 💬 Ask me about **Python, Java, Data Science, ML models**  
 - ⚡ Fun fact: I love cycling in my free time  
